@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>NYC Neighborhood Info (Flask)</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}" />
+</head>
+<body>
+  <div class="container">
+    <h1>NYC Neighborhood Info Finder</h1>
+    <input type="text" id="search" placeholder="Enter a neighborhood..." />
+    <button onclick="findNeighborhood()">Search</button>
+    <div id="result"></div>
+  </div>
+  <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>

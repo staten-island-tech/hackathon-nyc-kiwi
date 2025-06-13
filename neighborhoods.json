@@ -1,0 +1,72 @@
+[
+  {
+    "name": "Harlem",
+    "borough": "Manhattan",
+    "population": 116345,
+    "fun_fact": "Harlem was a major center of the Harlem Renaissance in the 1920s.",
+    "attractions": ["Apollo Theater", "Marcus Garvey Park"]
+  },
+  {
+    "name": "Williamsburg",
+    "borough": "Brooklyn",
+    "population": 78000,
+    "fun_fact": "Known for its hipster culture and street art.",
+    "attractions": ["Smorgasburg", "Domino Park"]
+  },
+  {
+    "name": "Astoria",
+    "borough": "Queens",
+    "population": 95000,
+    "fun_fact": "Astoria has one of the most diverse populations in NYC.",
+    "attractions": ["Astoria Park", "Museum of the Moving Image"]
+  },
+  {
+    "name": "Flushing",
+    "borough": "Queens",
+    "population": 72000,
+    "fun_fact": "Flushing is a hub for Asian-American culture and cuisine.",
+    "attractions": ["Flushing Meadows Park", "Queens Botanical Garden"]
+  },
+  {
+    "name": "Park Slope",
+    "borough": "Brooklyn",
+    "population": 67000,
+    "fun_fact": "Park Slope is known for its brownstones and family-friendly vibe.",
+    "attractions": ["Prospect Park", "Brooklyn Museum"]
+  },
+  {
+    "name": "SoHo",
+    "borough": "Manhattan",
+    "population": 13000,
+    "fun_fact": "SoHo stands for 'South of Houston Street' and is famous for its art galleries and shopping.",
+    "attractions": ["Cast-iron buildings", "Artists & Fleas"]
+  },
+  {
+    "name": "Riverdale",
+    "borough": "Bronx",
+    "population": 48000,
+    "fun_fact": "Riverdale has a suburban feel with large houses and green space.",
+    "attractions": ["Wave Hill", "Van Cortlandt Park"]
+  },
+  {
+    "name": "St. George",
+    "borough": "Staten Island",
+    "population": 16000,
+    "fun_fact": "St. George is the home of the Staten Island Ferry terminal.",
+    "attractions": ["Staten Island Ferry", "Staten Island Museum"]
+  },
+  {
+    "name": "Chinatown",
+    "borough": "Manhattan",
+    "population": 47000,
+    "fun_fact": "One of the oldest and largest Chinatowns in the U.S.",
+    "attractions": ["Columbus Park", "Doyers Street"]
+  },
+  {
+    "name": "Bushwick",
+    "borough": "Brooklyn",
+    "population": 112000,
+    "fun_fact": "Bushwick is known for its vibrant street art and underground culture.",
+    "attractions": ["Bushwick Collective", "Maria Hernandez Park"]
+  }
+]
